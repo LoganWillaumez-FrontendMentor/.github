@@ -11,7 +11,7 @@ If you have any feedback, please reach out to me at logan.willaume@gmail.com, or
 
 | Name | Language     | Link      |Preview      |
 | :-------- | :------- |  :---------|:--------     |
-| profile card component  | `HTML/CSS` |[Github](https://github.com/LoganWillaumez/Frontend-Mentor/tree/profile-card-component) |<img src="https://user-images.githubusercontent.com/60406970/141121301-ff10e8c9-1efe-4bee-93a5-29f13391157b.png" width="200" height="auto">      |
+| profile card component  | `HTML/CSS` |      |
 | stats previews  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133193402-04d4796e-1304-4341-b987-0afe67f278aa.png" width="150" height="auto">      |
 | social proof section | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133469543-54350c23-1616-42b1-bd27-b58208731d92.png" width="150" height="auto">      |
 | meet landing page  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/132395094-5c06d543-76ff-4532-83ee-5896f482e470.png" width="150" height="auto">     |
