@@ -12,9 +12,9 @@ If you have any feedback, please reach out to me at logan.willaume@gmail.com, or
 | Name | Language     | Link      |Preview      |
 | :-------- | :------- |  :---------|:--------     |
 | profile card component  | `HTML/CSS` |[Github](https://github.com/LoganWillaumez/Frontend-Mentor/tree/profile-card-component) |<img src="https://user-images.githubusercontent.com/60406970/141121301-ff10e8c9-1efe-4bee-93a5-29f13391157b.png" width="200" height="auto">      |
-| stats previews  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133193402-04d4796e-1304-4341-b987-0afe67f278aa.png" width="200" height="auto">      |
-| social proof section | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133469543-54350c23-1616-42b1-bd27-b58208731d92.png" width="200" height="auto">      |
-| meet landing page  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/132395094-5c06d543-76ff-4532-83ee-5896f482e470.png" width="200" height="auto">     |
+| stats previews  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133193402-04d4796e-1304-4341-b987-0afe67f278aa.png" width="150" height="auto">      |
+| social proof section | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133469543-54350c23-1616-42b1-bd27-b58208731d92.png" width="150" height="auto">      |
+| meet landing page  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/132395094-5c06d543-76ff-4532-83ee-5896f482e470.png" width="150" height="auto">     |
 | four card feature section | `HTML/CSS` |`dsqsd` | <img src="https://user-images.githubusercontent.com/60406970/132396458-844cc51b-6f8a-41b0-9ab6-429696df2895.png" width="200" height="auto">    |
 | pod request | `HTML/CSS/JS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/132391806-8ed0932d-b503-4c05-8a66-48b505002461.png" width="200" height="auto">     |
 | 3 column preview  | `HTML/CSS` |`dsqsd` |<img src="https://user-images.githubusercontent.com/60406970/133441756-03e79550-4db1-4bfe-894b-2f8447b615b8.png" width="200" height="auto">      |
