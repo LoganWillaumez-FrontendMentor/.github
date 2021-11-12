@@ -27,4 +27,5 @@ If you have any feedback, please reach out to me at logan.willaume@gmail.com, or
 | 014-Intro component sign up form challenge  | `HTML/SCSS/JS`  |[Github](https://github.com/LoganWillaumez-FrontendMentor/014-Intro-component-sign-up-form-challenge)|[Preview](https://loganwillaumez-frontendmentor.github.io/014-Intro-component-sign-up-form-challenge/)|
 | 015-Ping Single column coming soon page challenge hub | `HTML/SCSS/JS` |[Github](https://github.com/LoganWillaumez-FrontendMentor/015-Ping-Single-column-coming-soon-page-challenge-hub)|[Preview](https://loganwillaumez-frontendmentor.github.io/015-Ping-Single-column-coming-soon-page-challenge-hub/)|
 | 016-Equalizer landing page | `HTML/SCSS`  |[Github](https://github.com/LoganWillaumez-FrontendMentor/016-Equalizer-landing-page)|[Preview](https://loganwillaumez-frontendmentor.github.io/016-Equalizer-landing-page/)|
+| 017-Tip-calculator-app | `HTML/SCSS/JS`  |[Github](https://github.com/LoganWillaumez-FrontendMentor/017-Tip-calculator-app)|[Preview](https://loganwillaumez-frontendmentor.github.io/017-Tip-calculator-app/)|
 
